@@ -1,0 +1,3960 @@
+[
+  {
+    "titulo": "Iron Man",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "77:15"
+      },
+      {
+        "personaje": "Pepper Potts",
+        "tiempo": "23:15"
+      },
+      {
+        "personaje": "Obadiah Stane / Iron Monger",
+        "tiempo": "22"
+      },
+      {
+        "personaje": "Professor Ho Yinsen",
+        "tiempo": "10:45"
+      },
+      {
+        "personaje": "Lt. Col. James \"Rhodey\" Rhodes",
+        "tiempo": "8:15"
+      },
+      {
+        "personaje": "Raza",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Agent Phil Coulson",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Christine Everhart",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Abu Bakaar",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Harold \"Happy\" Hogan",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "William Ginter Riva",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Director Nick Fury",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "J.A.R.V.I.S.",
+        "tiempo": "v"
+      }
+    ]
+  },
+  {
+    "titulo": "El increíble Hulk",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Dr. Bruce Banner / The Hulk",
+        "tiempo": "51:45"
+      },
+      {
+        "personaje": "Dr. Betty Ross",
+        "tiempo": "27"
+      },
+      {
+        "personaje": "Emil Blonsky / The Abomination",
+        "tiempo": "18:30"
+      },
+      {
+        "personaje": "General Thaddeus Ross",
+        "tiempo": "15"
+      },
+      {
+        "personaje": "Samuel Sterns",
+        "tiempo": "7:30"
+      },
+      {
+        "personaje": "Dr. Leonard Samson",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Maj. Kathleen Sparr",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Roger Harrington",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Iron Man 2",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "61:15"
+      },
+      {
+        "personaje": "Ivan Vanko / Whiplash",
+        "tiempo": "20:45"
+      },
+      {
+        "personaje": "Lt. Col. James \"Rhodey\" Rhodes / War Machine",
+        "tiempo": "18:45"
+      },
+      {
+        "personaje": "Pepper Potts",
+        "tiempo": "17:30"
+      },
+      {
+        "personaje": "Justin Hammer",
+        "tiempo": "16:30"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": "9:15"
+      },
+      {
+        "personaje": "Director Nick Fury",
+        "tiempo": "5:30"
+      },
+      {
+        "personaje": "Happy Hogan",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Senator Stern",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Howard Stark",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Agent Phil Coulson",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Christine Everhart",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Anton Vanko",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Peter Parker",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "J.A.R.V.I.S.",
+        "tiempo": "v"
+      }
+    ]
+  },
+  {
+    "titulo": "Thor",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Thor",
+        "tiempo": "43:15"
+      },
+      {
+        "personaje": "Loki",
+        "tiempo": "21:15"
+      },
+      {
+        "personaje": "Dr. Jane Foster",
+        "tiempo": "21"
+      },
+      {
+        "personaje": "Dr. Erik Selvig",
+        "tiempo": "13:45"
+      },
+      {
+        "personaje": "Odin",
+        "tiempo": "11:15"
+      },
+      {
+        "personaje": "Darcy Lewis",
+        "tiempo": "8:30"
+      },
+      {
+        "personaje": "Sif",
+        "tiempo": "8:15"
+      },
+      {
+        "personaje": "Volstagg",
+        "tiempo": "7"
+      },
+      {
+        "personaje": "Fandral",
+        "tiempo": "7"
+      },
+      {
+        "personaje": "Hogun",
+        "tiempo": "6:30"
+      },
+      {
+        "personaje": "Heimdall",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Agent Phil Coulson",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Laufey",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Frigga",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Agent Jasper Sitwell",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Director Nick Fury",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Clint Barton / Hawkeye",
+        "tiempo": ":30"
+      }
+    ]
+  },
+  {
+    "titulo": "Capitán América: El primer vengador",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Steve Rogers / Captain America",
+        "tiempo": "56:30"
+      },
+      {
+        "personaje": "Agent Peggy Carter",
+        "tiempo": "17:15"
+      },
+      {
+        "personaje": "Johann Schmidt / Red Skull",
+        "tiempo": "15:30"
+      },
+      {
+        "personaje": "Col. Chester Phillips",
+        "tiempo": "9:15"
+      },
+      {
+        "personaje": "Dr. Abraham Erskine",
+        "tiempo": "8:30"
+      },
+      {
+        "personaje": "Dr. Arnim Zola",
+        "tiempo": "8:15"
+      },
+      {
+        "personaje": "Sgt. James \"Bucky\" Barnes",
+        "tiempo": "8"
+      },
+      {
+        "personaje": "Howard Stark",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Heinz Kruger",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Sgt. Timothy \"Dum Dum\" Dugan",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Pvt. Gabe Jones",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Pvt. Jim Morita",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Pvt. James Montgomery Fallsworth",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Pvt. Jacques Dernier",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Director Nick Fury",
+        "tiempo": ":30"
+      }
+    ]
+  },
+  {
+    "titulo": "Marvel de un vistazo: El consultor",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Agent Jasper Sitwell",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Agent Phil Coulson",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Gen. Thaddeus Ross",
+        "tiempo": ":30"
+      }
+    ]
+  },
+  {
+    "titulo": "El caso único de Marvel: Algo divertido ocurrió de camino al martillo de Thor",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Agent Phil Coulson",
+        "tiempo": "1:45"
+      }
+    ]
+  },
+  {
+    "titulo": "Marvel Los Vengadores",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "31:45"
+      },
+      {
+        "personaje": "Steve Rogers / Captain America",
+        "tiempo": "28:15"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": "24:45"
+      },
+      {
+        "personaje": "Dr. Bruce Banner / The Hulk",
+        "tiempo": "21:45"
+      },
+      {
+        "personaje": "Loki",
+        "tiempo": "21:30"
+      },
+      {
+        "personaje": "Director Nick Fury",
+        "tiempo": "18:15"
+      },
+      {
+        "personaje": "Thor",
+        "tiempo": "18"
+      },
+      {
+        "personaje": "Clint Barton / Hawkeye",
+        "tiempo": "12:45"
+      },
+      {
+        "personaje": "Agent Phil Coulson",
+        "tiempo": "9"
+      },
+      {
+        "personaje": "Agent Maria Hill",
+        "tiempo": "5:30"
+      },
+      {
+        "personaje": "Pepper Potts",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Dr. Erik Selvig",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "The Other",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Gen. Georgi Luchkov",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Councilwoman Malick",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Councilwoman Hawley",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Agent Jasper Sitwell",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Thanos",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "J.A.R.V.I.S.",
+        "tiempo": "v"
+      }
+    ]
+  },
+  {
+    "titulo": "Marvel extendido: Artículo 47",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Claire",
+        "tiempo": "5:45"
+      },
+      {
+        "personaje": "Bennie",
+        "tiempo": "5"
+      },
+      {
+        "personaje": "Agent Jasper Sitwell",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Agent Felix Blake",
+        "tiempo": "1:45"
+      }
+    ]
+  },
+  {
+    "titulo": "Iron Man 3",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "62:15"
+      },
+      {
+        "personaje": "Pepper Potts",
+        "tiempo": "18"
+      },
+      {
+        "personaje": "Aldrich Killian",
+        "tiempo": "12"
+      },
+      {
+        "personaje": "Col. James \"Rhodey\" Rhodes / Iron Patriot",
+        "tiempo": "9:45"
+      },
+      {
+        "personaje": "Dr. Maya Hansen",
+        "tiempo": "8:45"
+      },
+      {
+        "personaje": "Trevor Slattery / \"The Mandarin\"",
+        "tiempo": "7:30"
+      },
+      {
+        "personaje": "Harley Keener",
+        "tiempo": "6:15"
+      },
+      {
+        "personaje": "Happy Hogan",
+        "tiempo": "6:15"
+      },
+      {
+        "personaje": "Eric Savin",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Ellen Brandt",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "President Matthew Ellis",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Vice-President Rodriguez",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Dr. Bruce Banner",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Professor Ho Yinsen",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "J.A.R.V.I.S.",
+        "tiempo": "v"
+      }
+    ]
+  },
+  {
+    "titulo": "Marvel One-Shot: Agente Carter",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Agent Peggy Carter",
+        "tiempo": "7:30"
+      },
+      {
+        "personaje": "Agent Flynn",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Howard Stark",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Sgt. Timothy \"Dum Dum\" Dugan",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Steve Rogers / Captain America",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Thor: El mundo oscuro",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Thor",
+        "tiempo": "35"
+      },
+      {
+        "personaje": "Dr. Jane Foster",
+        "tiempo": "25"
+      },
+      {
+        "personaje": "Loki",
+        "tiempo": "17:30"
+      },
+      {
+        "personaje": "Odin",
+        "tiempo": "9"
+      },
+      {
+        "personaje": "Malekith",
+        "tiempo": "8:45"
+      },
+      {
+        "personaje": "Darcy Lewis",
+        "tiempo": "8:45"
+      },
+      {
+        "personaje": "Dr. Erik Selvig",
+        "tiempo": "6:30"
+      },
+      {
+        "personaje": "Algrim",
+        "tiempo": "6:15"
+      },
+      {
+        "personaje": "Ian Boothby",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Heimdall",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Frigga",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Sif",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Volstagg",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Richard",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Fandral",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "The Collector",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Hogun",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Carina",
+        "tiempo": "1"
+      }
+    ]
+  },
+  {
+    "titulo": "Todos aclaman al rey",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Trevor Slattery",
+        "tiempo": "7:45"
+      },
+      {
+        "personaje": "Jackson Norriss",
+        "tiempo": "5:15"
+      },
+      {
+        "personaje": "Justin Hammer",
+        "tiempo": ":45"
+      }
+    ]
+  },
+  {
+    "titulo": "Capitán América: El Soldado de Invierno",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Steve Rogers / Captain America",
+        "tiempo": "59"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": "24:45"
+      },
+      {
+        "personaje": "Director Nick Fury",
+        "tiempo": "15:30"
+      },
+      {
+        "personaje": "Sam Wilson / Falcon",
+        "tiempo": "14:15"
+      },
+      {
+        "personaje": "James \"Bucky\" Barnes / Winter Soldier",
+        "tiempo": "13:15"
+      },
+      {
+        "personaje": "Alexander Pierce",
+        "tiempo": "12:45"
+      },
+      {
+        "personaje": "Brock Rumlow",
+        "tiempo": "6:15"
+      },
+      {
+        "personaje": "Agent Jasper Sitwell",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Agent Maria Hill",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Agent Sharon Carter",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Dr. Arnim Zola",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Peggy Carter",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Jack Rollins",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Georges Batroc",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Baron Wolfgang von Strucker",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Dr. List",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Councilman Singh",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Councilman Rockwell",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Councilman Yen",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Cameron Klein",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Senator Stern",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Councilwoman Hawley",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Wanda Maximoff",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Pietro Maximoff",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Guardianes de la Galaxia",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Peter Quill / Star-Lord",
+        "tiempo": "46:45"
+      },
+      {
+        "personaje": "Gamora",
+        "tiempo": "31"
+      },
+      {
+        "personaje": "Rocket",
+        "tiempo": "19:30"
+      },
+      {
+        "personaje": "Drax",
+        "tiempo": "18"
+      },
+      {
+        "personaje": "Groot",
+        "tiempo": "14:45"
+      },
+      {
+        "personaje": "Ronan",
+        "tiempo": "7:45"
+      },
+      {
+        "personaje": "Yondu Udonta",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Nebula",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Rhomann Dey",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "The Collector",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Nova Prime Irani Rael",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Korath",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Kraglin Obfonteri",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Meredith Quill",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Carina",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Thanos",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Groot II",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Denaarian Saal",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "The Other",
+        "tiempo": ":45"
+      }
+    ]
+  },
+  {
+    "titulo": "Vengadores: La era de Ultrón",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "27:15"
+      },
+      {
+        "personaje": "Steve Rogers / Captain America",
+        "tiempo": "21:45"
+      },
+      {
+        "personaje": "Dr. Bruce Banner / The Hulk",
+        "tiempo": "20"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": "18"
+      },
+      {
+        "personaje": "Ultron",
+        "tiempo": "17"
+      },
+      {
+        "personaje": "Clint Barton / Hawkeye",
+        "tiempo": "15"
+      },
+      {
+        "personaje": "Thor",
+        "tiempo": "13:15"
+      },
+      {
+        "personaje": "Wanda Maximoff",
+        "tiempo": "12"
+      },
+      {
+        "personaje": "Pietro Maximoff",
+        "tiempo": "10"
+      },
+      {
+        "personaje": "Vision",
+        "tiempo": "6:15"
+      },
+      {
+        "personaje": "Laura Barton",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Dr. Helen Cho",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Maria Hill",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Nick Fury",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Ulysses Klauë",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Col. James \"Rhodey\" Rhodes / War Machine",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Baron Wolfgang von Strucker",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Dr. Erik Selvig",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Sam Wilson / Falcon",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Heimdall",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Dr. List",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Cameron Klein",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Peggy Carter",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Thanos",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "J.A.R.V.I.S.",
+        "tiempo": "v"
+      },
+      {
+        "personaje": "F.R.I.D.A.Y.",
+        "tiempo": "v"
+      }
+    ]
+  },
+  {
+    "titulo": "Ant-Man",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Scott Lang / Ant-Man",
+        "tiempo": "50:30"
+      },
+      {
+        "personaje": "Dr. Hank Pym",
+        "tiempo": "24:45"
+      },
+      {
+        "personaje": "Hope van Dyne",
+        "tiempo": "15:45"
+      },
+      {
+        "personaje": "Darren Cross / Yellowjacket",
+        "tiempo": "14:30"
+      },
+      {
+        "personaje": "Luis",
+        "tiempo": "7"
+      },
+      {
+        "personaje": "Cassie Lang",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Officer Jim Paxton",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Sam Wilson / Falcon",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Dave",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Kurt",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Maggie Lang",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Mitchell Carson",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Howard Stark",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Gale",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Peggy Carter",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Janet van Dyne",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Steve Rogers / Captain America",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "James \"Bucky\" Barnes / Winter Soldier",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Capitán América: Civil War",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Steve Rogers / Captain America",
+        "tiempo": "38:15"
+      },
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "37:15"
+      },
+      {
+        "personaje": "James \"Bucky\" Barnes / Winter Soldier",
+        "tiempo": "22"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": "12"
+      },
+      {
+        "personaje": "Prince T'Challa / Black Panther",
+        "tiempo": "11:30"
+      },
+      {
+        "personaje": "Wanda Maximoff",
+        "tiempo": "10:45"
+      },
+      {
+        "personaje": "Helmut Zemo",
+        "tiempo": "10:30"
+      },
+      {
+        "personaje": "Sam Wilson / Falcon",
+        "tiempo": "10:15"
+      },
+      {
+        "personaje": "Peter Parker / Spider-Man",
+        "tiempo": "8:30"
+      },
+      {
+        "personaje": "Vision",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "Col. James \"Rhodey\" Rhodes / War Machine",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "Scott Lang / Ant-Man",
+        "tiempo": "5:30"
+      },
+      {
+        "personaje": "Sharon Carter",
+        "tiempo": "5"
+      },
+      {
+        "personaje": "Clint Barton / Hawkeye",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Secretary Thaddeus Ross",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Brock Rumlow / Crossbones",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Maria Stark",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Howard Stark",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "King T'Chaka",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Everett Ross",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "May Parker",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Ayo",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "F.R.I.D.A.Y.",
+        "tiempo": "v"
+      }
+    ]
+  },
+  {
+    "titulo": "Doctor Strange. Doctor Extraño",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Dr. Stephen Strange / Doctor Strange",
+        "tiempo": "73:30"
+      },
+      {
+        "personaje": "Karl Mordo",
+        "tiempo": "17:45"
+      },
+      {
+        "personaje": "The Ancient One",
+        "tiempo": "17:15"
+      },
+      {
+        "personaje": "Kaecilius",
+        "tiempo": "12:45"
+      },
+      {
+        "personaje": "Dr. Christine Palmer",
+        "tiempo": "12:45"
+      },
+      {
+        "personaje": "Wong",
+        "tiempo": "7"
+      },
+      {
+        "personaje": "Lucian",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Jonathan Pangborn",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Dormammu",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Dr. Nicodemus West",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Thor",
+        "tiempo": ":45"
+      }
+    ]
+  },
+  {
+    "titulo": "Guardianes de la Galaxia Vol. 2",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Peter Quill / Star Lord",
+        "tiempo": "35:45"
+      },
+      {
+        "personaje": "Gamora",
+        "tiempo": "24"
+      },
+      {
+        "personaje": "Rocket",
+        "tiempo": "19:45"
+      },
+      {
+        "personaje": "Ego",
+        "tiempo": "17"
+      },
+      {
+        "personaje": "Drax",
+        "tiempo": "16:30"
+      },
+      {
+        "personaje": "Yondu Udonta",
+        "tiempo": "16:15"
+      },
+      {
+        "personaje": "Groot II",
+        "tiempo": "14"
+      },
+      {
+        "personaje": "Mantis",
+        "tiempo": "11"
+      },
+      {
+        "personaje": "Nebula",
+        "tiempo": "10:30"
+      },
+      {
+        "personaje": "Kraglin Obfonteri",
+        "tiempo": "4:45"
+      },
+      {
+        "personaje": "Taserface",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Ayesha",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Stakar Ogord",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Meredith Quill",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Martinex T'Naga",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Aleta Ogord",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Charlie-27",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Mainframe",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "Krugarr",
+        "tiempo": "x"
+      }
+    ]
+  },
+  {
+    "titulo": "Spider-Man: Homecoming",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Peter Parker / Spider-Man",
+        "tiempo": "76:15"
+      },
+      {
+        "personaje": "Adrian Toomes / Vulture",
+        "tiempo": "19"
+      },
+      {
+        "personaje": "Ned Leeds",
+        "tiempo": "13:45"
+      },
+      {
+        "personaje": "Liz Toomes",
+        "tiempo": "9:45"
+      },
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "8"
+      },
+      {
+        "personaje": "Harold \"Happy\" Hogan",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Herman Schultz / The Shocker",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "May Parker",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Phineas Mason / Tinkerer",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Michelle Jones",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Aaron Davis",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Jackson Brice / The Shocker",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Flash Thompson",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Roger Harrington",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Mac Gargan",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Betty Brant",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Ann Marie Hoag",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Steve Rogers / Captain America",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Jason Ionello",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Pepper Potts",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Karen",
+        "tiempo": "v"
+      }
+    ]
+  },
+  {
+    "titulo": "Thor: Ragnarok",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Thor",
+        "tiempo": "58:45"
+      },
+      {
+        "personaje": "Dr. Bruce Banner / The Hulk",
+        "tiempo": "17:15"
+      },
+      {
+        "personaje": "Valkyrie",
+        "tiempo": "14:15"
+      },
+      {
+        "personaje": "Loki",
+        "tiempo": "13:30"
+      },
+      {
+        "personaje": "Hela",
+        "tiempo": "12:30"
+      },
+      {
+        "personaje": "Skurge",
+        "tiempo": "6:45"
+      },
+      {
+        "personaje": "The Grandmaster",
+        "tiempo": "5:30"
+      },
+      {
+        "personaje": "Heimdall",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Korg",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Odin",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Surtur",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Dr. Stephen Strange",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Topaz",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Fenriswolf",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Miek",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Hogun",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Volstagg",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Fandral",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Black Panther",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "King T'Challa / Black Panther",
+        "tiempo": "48"
+      },
+      {
+        "personaje": "N'Jadaka / Erik \"Killmonger\" Stevens",
+        "tiempo": "22:15"
+      },
+      {
+        "personaje": "Nakia",
+        "tiempo": "16:45"
+      },
+      {
+        "personaje": "Princess Shuri",
+        "tiempo": "14:30"
+      },
+      {
+        "personaje": "Okoye",
+        "tiempo": "12:45"
+      },
+      {
+        "personaje": "Agent Everett Ross",
+        "tiempo": "12"
+      },
+      {
+        "personaje": "Zuri",
+        "tiempo": "8:15"
+      },
+      {
+        "personaje": "Ulysses Klauë",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "W'Kabi",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "Ramonda",
+        "tiempo": "6:45"
+      },
+      {
+        "personaje": "M'Baku",
+        "tiempo": "5:45"
+      },
+      {
+        "personaje": "King T'Chaka",
+        "tiempo": "5"
+      },
+      {
+        "personaje": "N'Jobu",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Ayo",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Xoliswa",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "James \"Bucky\" Barnes / White Wolf",
+        "tiempo": ":45"
+      }
+    ]
+  },
+  {
+    "titulo": "Vengadores: Infinity War",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Thanos",
+        "tiempo": "31"
+      },
+      {
+        "personaje": "Gamora",
+        "tiempo": "20"
+      },
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "17"
+      },
+      {
+        "personaje": "Thor",
+        "tiempo": "15:15"
+      },
+      {
+        "personaje": "Dr. Stephen Strange",
+        "tiempo": "11:15"
+      },
+      {
+        "personaje": "Peter Quill / Star-Lord",
+        "tiempo": "10:15"
+      },
+      {
+        "personaje": "Vision",
+        "tiempo": "10"
+      },
+      {
+        "personaje": "Dr. Bruce Banner / The Hulk",
+        "tiempo": "9:30"
+      },
+      {
+        "personaje": "Wanda Maximoff",
+        "tiempo": "9"
+      },
+      {
+        "personaje": "Peter Parker / Spider-Man",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "Steve Rogers",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "Rocket",
+        "tiempo": "6:15"
+      },
+      {
+        "personaje": "Drax",
+        "tiempo": "5:45"
+      },
+      {
+        "personaje": "Mantis",
+        "tiempo": "5:45"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": "5"
+      },
+      {
+        "personaje": "Ebony Maw",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Groot II",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Proxima Midnight",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Loki",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "King T'Challa / Black Panther",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Wong",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Cull Obsidian",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Corvus Glaive",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Nebula",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Col. James \"Rhodey\" Rhodes / War Machine",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Sam Wilson / Falcon",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Okoye",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Eitri",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "James \"Bucky\" Barnes / White Wolf",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "The Stonekeeper",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Pepper Potts",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "M'Baku",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Secretary Thaddeus Ross",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Nick Fury",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Maria Hill",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Princess Shuri",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Heimdall",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Taneleer Tivan / The Collector",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Ned Leeds",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Ayo",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Cindy Moon",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "Sally Avril",
+        "tiempo": "x"
+      }
+    ]
+  },
+  {
+    "titulo": "Ant-Man y la Avispa",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Scott Lang / Ant-Man",
+        "tiempo": "42:30"
+      },
+      {
+        "personaje": "Hope van Dyne / The Wasp",
+        "tiempo": "35"
+      },
+      {
+        "personaje": "Dr. Hank Pym",
+        "tiempo": "23:45"
+      },
+      {
+        "personaje": "Ava Starr / Ghost",
+        "tiempo": "12:45"
+      },
+      {
+        "personaje": "Janet van Dyne",
+        "tiempo": "9:15"
+      },
+      {
+        "personaje": "Dr. Bill Foster",
+        "tiempo": "8:30"
+      },
+      {
+        "personaje": "Luis",
+        "tiempo": "8:30"
+      },
+      {
+        "personaje": "Cassie Lang",
+        "tiempo": "7"
+      },
+      {
+        "personaje": "Sonny Burch",
+        "tiempo": "7"
+      },
+      {
+        "personaje": "Agent James Woo",
+        "tiempo": "5:30"
+      },
+      {
+        "personaje": "Uzman",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Kurt",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Dave",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Anitolov",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Maggie Lang",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Officer Jim Paxton",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Elihas Starr",
+        "tiempo": ":30"
+      }
+    ]
+  },
+  {
+    "titulo": "Capitana Marvel",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Carol Danvers / Vers / Captain Marvel",
+        "tiempo": "65"
+      },
+      {
+        "personaje": "Agent Nick Fury",
+        "tiempo": "22:30"
+      },
+      {
+        "personaje": "Talos",
+        "tiempo": "13:45"
+      },
+      {
+        "personaje": "Yon-Rogg",
+        "tiempo": "11:45"
+      },
+      {
+        "personaje": "Maria Rambeau",
+        "tiempo": "11"
+      },
+      {
+        "personaje": "Monica Rambeau",
+        "tiempo": "4:45"
+      },
+      {
+        "personaje": "Goose",
+        "tiempo": "4:45"
+      },
+      {
+        "personaje": "Mar-Vell / Dr. Wendy Lawson",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Kree Supreme Intelligence",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Minn-Erva",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Korath",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Agent Phil Coulson",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Att-Lass",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Bron-Char",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Soren",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Ronan",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Steve Rogers / Nomad",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Dr. Bruce Banner",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Col. James \"Rhodey\" Rhodes / War Machine",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Vengadores: Endgame",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "34:45"
+      },
+      {
+        "personaje": "Steve Rogers / Captain America",
+        "tiempo": "30:45"
+      },
+      {
+        "personaje": "Thor",
+        "tiempo": "21:15"
+      },
+      {
+        "personaje": "Dr. Bruce Banner / The Hulk",
+        "tiempo": "20"
+      },
+      {
+        "personaje": "Clint Barton / Ronin",
+        "tiempo": "18"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": "16"
+      },
+      {
+        "personaje": "Nebula",
+        "tiempo": "16"
+      },
+      {
+        "personaje": "Scott Lang / Ant-Man",
+        "tiempo": "13:15"
+      },
+      {
+        "personaje": "Thanos",
+        "tiempo": "12:15"
+      },
+      {
+        "personaje": "James \"Rhodey\" Rhodes / War Machine",
+        "tiempo": "9:15"
+      },
+      {
+        "personaje": "Rocket",
+        "tiempo": "8:15"
+      },
+      {
+        "personaje": "Carol Danvers / Captain Marvel",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Gamora",
+        "tiempo": "4:45"
+      },
+      {
+        "personaje": "Sam Wilson / Falcon",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Pepper Potts / Rescue",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "The Ancient One",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Morgan Stark",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Howard Stark",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Peter Parker / Spider-Man",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Peter Quill / Star-Lord",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Frigga",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Wanda Maximoff",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "James \"Bucky\" Barnes / White Wolf",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Valkyrie",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "King T'Challa / Black Panther",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Okoye",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Lila Barton",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Dr. Stephen Strange",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Hope van Dyne / The Wasp",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Princess Shuri",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Akihiko",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Loki",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Groot II",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Drax",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Peggy Carter",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Cassie Lang",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "The Stonekeeper",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Agent Jasper Sitwell",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Korg",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Ebony Maw",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Mantis",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Harold \"Happy\" Hogan",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Agent Brock Rumlow",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Wong",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Alexander Pierce",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Laura Barton",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Cooper Barton",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Nathaniel Barton",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Dr. Hank Pym",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Miek",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Corvus Glaive",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Proxima Midnight",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Cull Obsidian",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Janet van Dyne",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Edwin Jarvis",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Dr. Jane Foster",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Ned Leeds",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "May Parker",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Secretary Thaddeus Ross",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Queen Ramonda",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "M'Baku",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Harley Keener",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Maria Hill",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Nick Fury",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Spider-Man: Lejos de casa",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Peter Parker / Spider-Man",
+        "tiempo": "67:30"
+      },
+      {
+        "personaje": "Quentin Beck / Mysterio",
+        "tiempo": "21:15"
+      },
+      {
+        "personaje": "Michelle Jones",
+        "tiempo": "19:30"
+      },
+      {
+        "personaje": "Ned Leeds",
+        "tiempo": "14:30"
+      },
+      {
+        "personaje": "Betty Brant",
+        "tiempo": "9:15"
+      },
+      {
+        "personaje": "Talos / \"Nick Fury\"",
+        "tiempo": "8:45"
+      },
+      {
+        "personaje": "Harold \"Happy\" Hogan",
+        "tiempo": "7:30"
+      },
+      {
+        "personaje": "Roger Harrington",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Flash Thompson",
+        "tiempo": "5:45"
+      },
+      {
+        "personaje": "Brad Davis",
+        "tiempo": "5:45"
+      },
+      {
+        "personaje": "Julius Dell",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Soren / \"Maria Hill\"",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "May Parker",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Josh",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Zoha",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Zach",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Tyler",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Sebastian",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Yasmin",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "William Ginter Riva",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Dimitri",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Jason Ionello",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Nick Fury",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "J. Jonah Jameson",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Obadiah Stane",
+        "tiempo": "x"
+      }
+    ]
+  },
+  {
+    "titulo": "Bruja Escarlata y Visión",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Wanda Maximoff / The Scarlet Witch",
+        "tiempo": "126:45"
+      },
+      {
+        "personaje": "Vision",
+        "tiempo": "80"
+      },
+      {
+        "personaje": "Monica Rambeau",
+        "tiempo": "37:45"
+      },
+      {
+        "personaje": "Agatha Harkness / \"Agnes\"",
+        "tiempo": "36"
+      },
+      {
+        "personaje": "Jimmy Woo",
+        "tiempo": "19"
+      },
+      {
+        "personaje": "Dr. Darcy Lewis",
+        "tiempo": "18:45"
+      },
+      {
+        "personaje": "Tommy Maximoff",
+        "tiempo": "17:30"
+      },
+      {
+        "personaje": "Billy Maximoff",
+        "tiempo": "17"
+      },
+      {
+        "personaje": "Director Tyler Hayward",
+        "tiempo": "13:15"
+      },
+      {
+        "personaje": "Ralph Boehner / \"Pietro Maximoff\"",
+        "tiempo": "8"
+      },
+      {
+        "personaje": "Sharon Davis / \"Mrs. Hart\"",
+        "tiempo": "5:30"
+      },
+      {
+        "personaje": "\"Mr. Hart",
+        "tiempo": "5:30"
+      },
+      {
+        "personaje": "John Collins / \"Herb\"",
+        "tiempo": "5:15"
+      },
+      {
+        "personaje": "Abilash Tandon / \"Norm\"",
+        "tiempo": "5"
+      },
+      {
+        "personaje": "Sarah Proctor / \"Dottie\"",
+        "tiempo": "4:45"
+      },
+      {
+        "personaje": "Agent Rodriguez",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Harold Proctor / \"Phil\"",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Isabel Matsueda / \"Beverly\"",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Pietro Maximoff",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Sparky",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Iryan Maximoff",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Olek Maximoff",
+        "tiempo": "1"
+      }
+    ]
+  },
+  {
+    "titulo": "Falcon y el Soldado de Invierno",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Sam Wilson / Falcon",
+        "tiempo": "99:45"
+      },
+      {
+        "personaje": "James \"Bucky\" Barnes / Winter Soldier",
+        "tiempo": "74"
+      },
+      {
+        "personaje": "John Walker / Captain America",
+        "tiempo": "37"
+      },
+      {
+        "personaje": "Karli Morgenthau",
+        "tiempo": "27"
+      },
+      {
+        "personaje": "Baron Helmut Zemo",
+        "tiempo": "20:45"
+      },
+      {
+        "personaje": "Sarah Wilson",
+        "tiempo": "11:45"
+      },
+      {
+        "personaje": "Lemar Hoskins / Battlestar",
+        "tiempo": "11"
+      },
+      {
+        "personaje": "Sharon Carter",
+        "tiempo": "10:30"
+      },
+      {
+        "personaje": "Isaiah Bradley",
+        "tiempo": "8:45"
+      },
+      {
+        "personaje": "Dovich",
+        "tiempo": "8"
+      },
+      {
+        "personaje": "Joaquin Torres",
+        "tiempo": "7:30"
+      },
+      {
+        "personaje": "Dr. Christina Raynor",
+        "tiempo": "5:30"
+      },
+      {
+        "personaje": "Georges Batroc",
+        "tiempo": "4:45"
+      },
+      {
+        "personaje": "Olivia Walker",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Ayo",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Contessa Valentina Allegra de Fontaine",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Eli Bradley",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "James \"Rhodey\" Rhodes / War Machine",
+        "tiempo": "1:45"
+      }
+    ]
+  },
+  {
+    "titulo": "Loki",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "all Loki variants total",
+        "tiempo": "160:45"
+      },
+      {
+        "personaje": "Loki (protagonist)",
+        "tiempo": "131:15"
+      },
+      {
+        "personaje": "Sylvie",
+        "tiempo": "73:15"
+      },
+      {
+        "personaje": "Mobius",
+        "tiempo": "57"
+      },
+      {
+        "personaje": "Judge Renslayer",
+        "tiempo": "22:15"
+      },
+      {
+        "personaje": "Hunter B-15",
+        "tiempo": "19:30"
+      },
+      {
+        "personaje": "\"He Who Remains\"",
+        "tiempo": "14:30"
+      },
+      {
+        "personaje": "Classic Loki",
+        "tiempo": "9:30"
+      },
+      {
+        "personaje": "Kid Loki",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Hunter C-20",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Miss Minutes",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Black Loki",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Gator Loki",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Casey",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Lady Sif",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Thor",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "President Loki",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Steve Rogers / Captain America",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Bruce Banner / The Hulk",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Clint Barton / Hawkeye",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Frigga",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Odin",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Thanos",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Valkyrie",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "Phil Coulson",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "Algrim",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "Scott Lang / Ant-Man",
+        "tiempo": "x"
+      }
+    ]
+  },
+  {
+    "titulo": "Viuda Negra",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": "65:30"
+      },
+      {
+        "personaje": "Yelena Belova",
+        "tiempo": "41"
+      },
+      {
+        "personaje": "Alexei Shostakov",
+        "tiempo": "24:15"
+      },
+      {
+        "personaje": "Melina Vostkoff",
+        "tiempo": "20:45"
+      },
+      {
+        "personaje": "General Viktor Dreykov",
+        "tiempo": "10:15"
+      },
+      {
+        "personaje": "Antonia Dreykov / Taskmaster",
+        "tiempo": "9:30"
+      },
+      {
+        "personaje": "Rick Mason",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Lerato",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Ingrid",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Oksana",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Contessa Valentina de Fontaine",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Thaddeus Ross",
+        "tiempo": ":45"
+      }
+    ]
+  },
+  {
+    "titulo": "¿Qué pasaría si...?",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Dr. Stephen Strange",
+        "tiempo": "30:30"
+      },
+      {
+        "personaje": "Captain Peggy Carter",
+        "tiempo": "22:15"
+      },
+      {
+        "personaje": "T'Challa / Star-Lord / Black Panther",
+        "tiempo": "22"
+      },
+      {
+        "personaje": "Thor Odinson",
+        "tiempo": "18:45"
+      },
+      {
+        "personaje": "Natasha Romanoff / Black Widow",
+        "tiempo": "18"
+      },
+      {
+        "personaje": "Erik \"Killmonger\" Stevens / Black Panther",
+        "tiempo": "16:30"
+      },
+      {
+        "personaje": "Ultron",
+        "tiempo": "15"
+      },
+      {
+        "personaje": "The Watcher",
+        "tiempo": "12:30"
+      },
+      {
+        "personaje": "Tony Stark / Iron Man",
+        "tiempo": "9:30"
+      },
+      {
+        "personaje": "Clint Barton / Hawkeye",
+        "tiempo": "9:15"
+      },
+      {
+        "personaje": "Dr. Bruce Banner / The Hulk",
+        "tiempo": "8:30"
+      },
+      {
+        "personaje": "Nick Fury",
+        "tiempo": "7:45"
+      },
+      {
+        "personaje": "Steve Rogers / Captain America / Hydra Stomper",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "James \"Bucky\" Barnes / Winter Soldier",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "Dr. Jane Foster",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "Peter Parker / Spider-Man",
+        "tiempo": "7"
+      },
+      {
+        "personaje": "Loki Laufeyson",
+        "tiempo": "6:30"
+      },
+      {
+        "personaje": "Carol Danvers / Captain Marvel",
+        "tiempo": "6:15"
+      },
+      {
+        "personaje": "Yondu Udonta",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Okoye",
+        "tiempo": "5:15"
+      },
+      {
+        "personaje": "Korath",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Hope van Dyne / The Wasp",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Dr. Christine Palmer",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Dr. Arnim Zola",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Gamora",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "King T'Chaka",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Taneleer Tivan / The Collector",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Nebula",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Howard Stark",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Kurt",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Agent Phil Coulson",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Thanos",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Dr. Hank Pym / Yellowjacket",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Pepper Potts",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "The Ancient One",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Frigga",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Darcy Lewis",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Lady Sif",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Johann Schmidt / Red Skull",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Vision",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "O'Bengh",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Lt. Col. James \"Rhodey\" Rhodes",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Wong",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Scott Lang / Ant-Man",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Sharon Carter",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Queen Ramonda",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Taserface",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Harold \"Happy\" Hogan",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Fandral",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Princess Shuri",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Maria Hill",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Dr. Betty Ross",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Kraglin Obfonteri",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Sgt. Timothy \"Dum Dum\" Dugan",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Cull Obsidian",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Ulysses Klauë",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Wanda Maximoff",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Col. John Flynn",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Gen. Thaddeus \"Thunderbolt\" Ross",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Brock Rumlow / Crossbones",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Ebony Maw",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Hogun",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Volstagg",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Howard the Duck",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Carina",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Pvt. James Montgomery Falsworth",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Pvt. Gabe Jones",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Proxmia Midnight",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Obadiah Stane",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Odin Allfather",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Drax",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Sam Wilson / Falcon",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Pvt. Jacques Dernier",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Korg",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Peter Quill",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Heimdall",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Georges Batroc",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Ego",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Corvus Glaive",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Dr. Abraham Erskine",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Heinz Kruger",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Janet van Dyne",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Christine Everhart",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "The Grandmaster",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Topaz",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Mantis",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Valkyrie",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Surtur",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Rocket",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "Skurge",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "King Laufey",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "Eitri",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "Dormammu",
+        "tiempo": "x"
+      }
+    ]
+  },
+  {
+    "titulo": "Shang-Chi y la leyenda de los diez anillos",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Xu Shang-Chi / \"Shaun\"",
+        "tiempo": "63"
+      },
+      {
+        "personaje": "Katy Chen",
+        "tiempo": "31:15"
+      },
+      {
+        "personaje": "Xu Wenwu",
+        "tiempo": "27"
+      },
+      {
+        "personaje": "Xu Xialing",
+        "tiempo": "22"
+      },
+      {
+        "personaje": "Ying Nan",
+        "tiempo": "7:45"
+      },
+      {
+        "personaje": "Ying Li",
+        "tiempo": "6:30"
+      },
+      {
+        "personaje": "Trevor Slattery",
+        "tiempo": "6:15"
+      },
+      {
+        "personaje": "Razor Fist",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Morris",
+        "tiempo": "5:15"
+      },
+      {
+        "personaje": "The Great Protector",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "The Dweller in Darkness",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Soo",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "John",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Jon Jon",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Death Dealer",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Wong",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Master Guang Bo",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Emil Blonsky / Abomination",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Dr. Bruce Banner",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Carol Danvers / Captain Marvel",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Eternals",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Sersi",
+        "tiempo": "46:15"
+      },
+      {
+        "personaje": "Ikaris",
+        "tiempo": "34:30"
+      },
+      {
+        "personaje": "Thena",
+        "tiempo": "19:15"
+      },
+      {
+        "personaje": "Sprite",
+        "tiempo": "17:30"
+      },
+      {
+        "personaje": "Kingo",
+        "tiempo": "15:15"
+      },
+      {
+        "personaje": "Phastos",
+        "tiempo": "15:15"
+      },
+      {
+        "personaje": "Druig",
+        "tiempo": "11:15"
+      },
+      {
+        "personaje": "Ajak",
+        "tiempo": "10:30"
+      },
+      {
+        "personaje": "Makkari",
+        "tiempo": "10"
+      },
+      {
+        "personaje": "Gilgamesh",
+        "tiempo": "9:15"
+      },
+      {
+        "personaje": "Dane Whitman",
+        "tiempo": "8:45"
+      },
+      {
+        "personaje": "Kro",
+        "tiempo": "7"
+      },
+      {
+        "personaje": "Karun",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Tiamut",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Jack",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Arishem",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Ben",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Pip the Troll",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Eros / Starfox",
+        "tiempo": ":45"
+      }
+    ]
+  },
+  {
+    "titulo": "Ojo de Halcón",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Kate Bishop / Hawkeye",
+        "tiempo": "110:15"
+      },
+      {
+        "personaje": "Clint Barton / Hawkeye",
+        "tiempo": "95:30"
+      },
+      {
+        "personaje": "Eleanor Bishop",
+        "tiempo": "22:30"
+      },
+      {
+        "personaje": "Maya Lopez / Echo",
+        "tiempo": "21"
+      },
+      {
+        "personaje": "Yelena Belova",
+        "tiempo": "19"
+      },
+      {
+        "personaje": "Kazi Kazimierczak",
+        "tiempo": "14:30"
+      },
+      {
+        "personaje": "Jack Duquesne",
+        "tiempo": "12:45"
+      },
+      {
+        "personaje": "Ivan",
+        "tiempo": "7:45"
+      },
+      {
+        "personaje": "Wilson Fisk / Kingpin",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "Tomas",
+        "tiempo": "7"
+      },
+      {
+        "personaje": "Lucky the Pizza Dog",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Grills",
+        "tiempo": "6"
+      },
+      {
+        "personaje": "Lila Barton",
+        "tiempo": "5:30"
+      },
+      {
+        "personaje": "Armand Duquesne",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Missy",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Enrique",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Nathaniel Barton",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Cooper Barton",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Laura Barton",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "William Lopez",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Wendy",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Orville",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Derek Bishop",
+        "tiempo": "1:15"
+      }
+    ]
+  },
+  {
+    "titulo": "Spider-Man: No Way Home",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Peter Parker / Spider-Man",
+        "tiempo": "83:45"
+      },
+      {
+        "personaje": "Michelle \"MJ\" Jones Watson",
+        "tiempo": "27:15"
+      },
+      {
+        "personaje": "Ned Leeds",
+        "tiempo": "18:30"
+      },
+      {
+        "personaje": "Dr. Stephen Strange",
+        "tiempo": "12:30"
+      },
+      {
+        "personaje": "May Parker",
+        "tiempo": "9:30"
+      },
+      {
+        "personaje": "Norman Osborn / Green Goblin",
+        "tiempo": "9:15"
+      },
+      {
+        "personaje": "Dr. Otto Octavius / Doctor Octopus",
+        "tiempo": "9:15"
+      },
+      {
+        "personaje": "Max Dillon / Electro",
+        "tiempo": "7:15"
+      },
+      {
+        "personaje": "Harold \"Happy\" Hogan",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Flint Marko / Sandman",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Dr. Curt Connors / Lizard",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "J. Jonah Jameson",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Eddie Brock",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Matt Murdock",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Wong",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Flash Thompson",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Roger Harrington",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Julius Dell",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Betty Brant",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Caballero Luna",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Marc Spector / Steven Grant / Jake Lockley / Moon Knight",
+        "tiempo": "175:30"
+      },
+      {
+        "personaje": "Layla Al-Faouly",
+        "tiempo": "53:15"
+      },
+      {
+        "personaje": "Arthur Harrow",
+        "tiempo": "39"
+      },
+      {
+        "personaje": "Khonshu",
+        "tiempo": "10:45"
+      },
+      {
+        "personaje": "Taweret",
+        "tiempo": "5:45"
+      },
+      {
+        "personaje": "Bobbi Fitzgerald",
+        "tiempo": "5"
+      },
+      {
+        "personaje": "Selim",
+        "tiempo": "4:45"
+      },
+      {
+        "personaje": "Ammit",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Barry Kennedy",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Anton Mogart",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Yatzil",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Elias Spector",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Wendy Spector",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Randall Spector",
+        "tiempo": "1:15"
+      }
+    ]
+  },
+  {
+    "titulo": "Doctor Strange en el multiverso de la locura",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Dr. Stephen Strange",
+        "tiempo": "62:15"
+      },
+      {
+        "personaje": "Wanda Maximoff / Scarlet Witch",
+        "tiempo": "29"
+      },
+      {
+        "personaje": "America Chavez",
+        "tiempo": "26"
+      },
+      {
+        "personaje": "Dr. Christine Palmer",
+        "tiempo": "13:45"
+      },
+      {
+        "personaje": "Wong",
+        "tiempo": "12"
+      },
+      {
+        "personaje": "Baron Karl Mordo",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Gargantos",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Billy Maximoff",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Tommy Maximoff",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Professor Charles Xavier",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Maria Rambeau / Captain Marvel",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Captain Peggy Carter",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Dr. Nicodemus West",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Dr. Reed Richards / Mr. Fantastic",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Blackagar Boltagon / Black Bolt",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Pizza Poppa",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Rintrah",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Ultron",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Sara",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Clea",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Elena Chavez",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Amalia Chavez",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Daniel Drumm",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Hamir",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Ms. Marvel",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Kamala Khan / Ms. Marvel",
+        "tiempo": "131:45"
+      },
+      {
+        "personaje": "Bruno Carrelli",
+        "tiempo": "37:15"
+      },
+      {
+        "personaje": "Muneeba Khan",
+        "tiempo": "26:15"
+      },
+      {
+        "personaje": "Kamran",
+        "tiempo": "20:15"
+      },
+      {
+        "personaje": "Yusuf Khan",
+        "tiempo": "17:45"
+      },
+      {
+        "personaje": "Nakia Bahadir",
+        "tiempo": "17:45"
+      },
+      {
+        "personaje": "Sana",
+        "tiempo": "15:45"
+      },
+      {
+        "personaje": "Aisha",
+        "tiempo": "13:45"
+      },
+      {
+        "personaje": "Najma",
+        "tiempo": "11:30"
+      },
+      {
+        "personaje": "Kareem / Red Dagger",
+        "tiempo": "11"
+      },
+      {
+        "personaje": "Aamir Khan",
+        "tiempo": "10:45"
+      },
+      {
+        "personaje": "Hasan",
+        "tiempo": "9"
+      },
+      {
+        "personaje": "Zoe Zimmer",
+        "tiempo": "6:45"
+      },
+      {
+        "personaje": "Agent Sadie Deever",
+        "tiempo": "6:30"
+      },
+      {
+        "personaje": "Tyesha Hillman Khan",
+        "tiempo": "6:15"
+      },
+      {
+        "personaje": "Sheikh Abdullah",
+        "tiempo": "4:45"
+      },
+      {
+        "personaje": "Fariha",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Waleed",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Saleem",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Aadam",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Agent Cleary",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Auntie Ruby",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Gabe Wilson",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Owais",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Zainab",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Uncle Rasheed",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Miguel",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Najaf",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Carol Danvers / Captain Marvel",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Thor: Love and Thunder",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Thor Odinson",
+        "tiempo": "55"
+      },
+      {
+        "personaje": "Dr. Jane Foster",
+        "tiempo": "29:15"
+      },
+      {
+        "personaje": "Gorr the God Butcher",
+        "tiempo": "19:15"
+      },
+      {
+        "personaje": "King Valkyrie",
+        "tiempo": "14:15"
+      },
+      {
+        "personaje": "Korg",
+        "tiempo": "8:30"
+      },
+      {
+        "personaje": "Zeus",
+        "tiempo": "5:30"
+      },
+      {
+        "personaje": "Love",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Axl Heimdallson",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Peter Quill / Star-Lord",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "King Yakan",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Mantis",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Lady Sif",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Nebula",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Groot II",
+        "tiempo": "1:15"
+      },
+      {
+        "personaje": "Drax",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Actor Loki",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Actor Thor",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Actor Odin",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Dr. Darcy Lewis",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "Rocket",
+        "tiempo": ":45"
+      },
+      {
+        "personaje": "Heimdall",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Actor Hela",
+        "tiempo": ":30"
+      },
+      {
+        "personaje": "Kraglin Obfonteri",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Darryl",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Miek",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Frigga",
+        "tiempo": ":15"
+      },
+      {
+        "personaje": "Hecules",
+        "tiempo": "x"
+      },
+      {
+        "personaje": "Dr. Erik Selvig",
+        "tiempo": "x"
+      }
+    ]
+  },
+  {
+    "titulo": "She-Hulk: Abogada Hulka",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Jennifer Walters / She-Hulk",
+        "tiempo": "137:45"
+      },
+      {
+        "personaje": "Nikki Ramos",
+        "tiempo": "27:45"
+      },
+      {
+        "personaje": "Dr. Bruce Banner / Hulk",
+        "tiempo": "17:30"
+      },
+      {
+        "personaje": "Emil Blonsky / The Abomination",
+        "tiempo": "13:45"
+      },
+      {
+        "personaje": "Mallory Book",
+        "tiempo": "11:30"
+      },
+      {
+        "personaje": "Matt Murdock / Daredevil",
+        "tiempo": "11"
+      },
+      {
+        "personaje": "Augustus \"Pug\" Pugilese",
+        "tiempo": "11"
+      },
+      {
+        "personaje": "Wong",
+        "tiempo": "9:30"
+      },
+      {
+        "personaje": "Mary MacPherran / Titania",
+        "tiempo": "7"
+      },
+      {
+        "personaje": "Todd Phelps",
+        "tiempo": "5:45"
+      },
+      {
+        "personaje": "Luke Jacobson",
+        "tiempo": "5"
+      },
+      {
+        "personaje": "Josh Miller",
+        "tiempo": "5"
+      },
+      {
+        "personaje": "Donny Blaze",
+        "tiempo": "5"
+      },
+      {
+        "personaje": "Madisynn King",
+        "tiempo": "5"
+      },
+      {
+        "personaje": "Holden Holliway",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Lulu",
+        "tiempo": "4:30"
+      },
+      {
+        "personaje": "Wrecker",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Man-Bull",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "El Águila",
+        "tiempo": "4"
+      },
+      {
+        "personaje": "Dennis \"Buck\" Bukowski",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Morris Walters",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Porcupine",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Cornelius P. Willows",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Elaine Walters",
+        "tiempo": "1:45"
+      }
+    ]
+  },
+  {
+    "titulo": "La maldición del hombre lobo",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Jack Russell",
+        "tiempo": "19:15"
+      },
+      {
+        "personaje": "Elsa Bloodstone",
+        "tiempo": "17:45"
+      },
+      {
+        "personaje": "Verusa Bloodstone",
+        "tiempo": "8"
+      },
+      {
+        "personaje": "Ted / Man-Thing",
+        "tiempo": "3:45"
+      },
+      {
+        "personaje": "Jovan",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Azarel",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Barasso",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Liorn",
+        "tiempo": "2:45"
+      },
+      {
+        "personaje": "Ulysses Bloodstone",
+        "tiempo": ":30"
+      }
+    ]
+  },
+  {
+    "titulo": "Black Panther: Wakanda Forever",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Princess Shuri / Black Panther",
+        "tiempo": "57:30"
+      },
+      {
+        "personaje": "King K'uk'ulkan / Namor",
+        "tiempo": "22:30"
+      },
+      {
+        "personaje": "Queen Ramonda",
+        "tiempo": "19:45"
+      },
+      {
+        "personaje": "Okoye",
+        "tiempo": "16"
+      },
+      {
+        "personaje": "Riri Williams / Ironheart",
+        "tiempo": "15"
+      },
+      {
+        "personaje": "Nakia",
+        "tiempo": "14"
+      },
+      {
+        "personaje": "M'Baku",
+        "tiempo": "8:15"
+      },
+      {
+        "personaje": "Agent Everett Ross",
+        "tiempo": "5:45"
+      },
+      {
+        "personaje": "Aneka",
+        "tiempo": "3:30"
+      },
+      {
+        "personaje": "Ayo",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Namora",
+        "tiempo": "3:15"
+      },
+      {
+        "personaje": "Attuma",
+        "tiempo": "3"
+      },
+      {
+        "personaje": "Director Valentina Allegra de Fontaine",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Princess Fen (Namor's mother)",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Dr. Graham",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "N'Jadaka / Erik \"Killmonger\" Stevens",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Toussaint / T'Challa II",
+        "tiempo": "2"
+      },
+      {
+        "personaje": "Shaman Sope",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Zawavari",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "River Tribe Elder",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Merchant Tribe Elder",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Border Tribe Elder",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Mining Tribe Elder",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "U.S. Secretary of State",
+        "tiempo": "1"
+      },
+      {
+        "personaje": "King T'Challa / Black Panther",
+        "tiempo": ":15"
+      }
+    ]
+  },
+  {
+    "titulo": "Guardianes de la Galaxia: Especial felices fiestas",
+    "tipo": "película",
+    "personajes": [
+      {
+        "personaje": "Mantis",
+        "tiempo": "16"
+      },
+      {
+        "personaje": "Drax",
+        "tiempo": "12:15"
+      },
+      {
+        "personaje": "Peter Quill / Star-Lord",
+        "tiempo": "10:30"
+      },
+      {
+        "personaje": "Kevin Bacon",
+        "tiempo": "9:30"
+      },
+      {
+        "personaje": "Bzermiktoklok",
+        "tiempo": "4:45"
+      },
+      {
+        "personaje": "Kraglin Obfonteri",
+        "tiempo": "4:15"
+      },
+      {
+        "personaje": "Groot II",
+        "tiempo": "2:30"
+      },
+      {
+        "personaje": "Nebula",
+        "tiempo": "2:15"
+      },
+      {
+        "personaje": "Yondu Udonta",
+        "tiempo": "1:45"
+      },
+      {
+        "personaje": "Rocket",
+        "tiempo": "1:30"
+      },
+      {
+        "personaje": "Cosmo the Space Dog",
+        "tiempo": "1:15"
+      }
+    ]
+  }
+]
